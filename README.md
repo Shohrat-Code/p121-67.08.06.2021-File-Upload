@@ -6,7 +6,7 @@
 
 
 ##### 1. Aşağıdakı linkləri oxuyun:
-
+https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-5.0
 
 
 
